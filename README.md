@@ -1,6 +1,5 @@
 ### Muhammad Mubashir
 
-<!--
 👋 Hello! I'm Mubashir, a data scientist passionate about deriving insights from data and solving real-world problems.
 
 ## 🚀 About Me
