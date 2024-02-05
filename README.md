@@ -19,10 +19,10 @@
 
 ## 📊 Projects
 
-### [Project Name 1]
+### Extracting and Visualizing Stock Data
 - Implemented [brief description].
-- Technologies used: [List technologies used].
-- [Link to the project repository or live demo].
+- Technologies used: yfinance library, BeautifulSoup, .
+- https://github.com/mubashir-yaseen/Extracting-and-Visualizing-Stock-Data.git
 
 ### [Project Name 2]
 - Developed [brief description].
