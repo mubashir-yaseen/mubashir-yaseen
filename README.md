@@ -22,7 +22,7 @@
 ### Extracting and Visualizing Stock Data
 - Implemented Analyzing of Historical Stock/Revenue Data and Building a Dashboard
 - Technologies used: Webscraping using yfinance library and BeautifulSoup.
-- https://github.com/mubashir-yaseen/Extracting-and-Visualizing-Stock-Data.git
+- https://github.com/mubashir-yaseen/DataScience_Assignments/blob/197393c23a6e6ab87b2a3c6d6bcce5c408fd1138/Extracting%20and%20Visualizing%20Stock%20Data.ipynb
 
 ### House Sales Analysis in King County, USA
 This project focuses on analyzing historical house sales data in King County, USA, with the goal of building predictive models for house prices.
