@@ -25,8 +25,6 @@
 - https://github.com/mubashir-yaseen/Extracting-and-Visualizing-Stock-Data.git
 
 ### House Sales Analysis in King County, USA
-
-#### Introduction:
 This project focuses on analyzing historical house sales data in King County, USA, with the goal of building predictive models for house prices.
 #### Key Features:
 - Data wrangling and preprocessing
