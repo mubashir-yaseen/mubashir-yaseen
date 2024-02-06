@@ -27,25 +27,20 @@
 ### House Sales Analysis in King County, USA
 
 #### Introduction:
-This project focuses on analyzing historical house sales data in King County, USA, with the goal of building predictive models for house prices. The project encompasses various stages, including data importing, data wrangling, exploratory data analysis (EDA), model development, evaluation, and refinement.
-
+This project focuses on analyzing historical house sales data in King County, USA, with the goal of building predictive models for house prices.
 #### Key Features:
 - Data wrangling and preprocessing
 - Exploratory data analysis (EDA) to uncover insights and trends
 - Model development using machine learning algorithms
 - Evaluation of model performance and refinement
-
 #### Technologies Used:
 - Python, pandas, matplotlib, NumPy, seaborn, scikit-learn
-
-### Project Links:
+#### Project Links:
 - [GitHub Repository](link-to-your-repo)
 - [Live Demo](link-to-live-demo) (if applicable)
-
-### Screenshots:
+#### Screenshots:
 ![Data Visualization](link-to-screenshot)
-
-### Conclusion:
+#### Conclusion:
 The project showcased proficiency in data analysis, machine learning, and model evaluation techniques, providing valuable insights into house price predictions in King County, USA. Future enhancements may include feature engineering, model tuning, and deployment of predictive models.
 
 
