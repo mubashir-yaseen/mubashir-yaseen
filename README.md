@@ -20,8 +20,8 @@
 ## 📊 Projects
 
 ### Extracting and Visualizing Stock Data
-- Implemented [brief description].
-- Technologies used: yfinance library, BeautifulSoup, .
+- Implemented Analyzing of Historical Stock/Revenue Data and Building a Dashboard
+- Technologies used: Webscraping using yfinance library and BeautifulSoup.
 - https://github.com/mubashir-yaseen/Extracting-and-Visualizing-Stock-Data.git
 
 ### [Project Name 2]
