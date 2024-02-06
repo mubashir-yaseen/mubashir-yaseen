@@ -31,8 +31,8 @@ This project focuses on analyzing historical house sales data in King County, US
 - Exploratory data analysis (EDA) to uncover insights and trends
 - Model development using machine learning algorithms
 - Evaluation of model performance and refinement
-#### Technologies Used:
-- Python, pandas, matplotlib, NumPy, seaborn, scikit-learn
+#### Technologies Used: 
+Python, pandas, matplotlib, NumPy, seaborn, scikit-learn
 #### Project Links:
 - https://github.com/mubashir-yaseen/DataScience_Assignments/blob/8439475fedb89165c9d24922db1062adda4fcfe7/House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite.ipynb
 #### Conclusion:
