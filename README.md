@@ -24,25 +24,19 @@
 - Technologies used: Webscraping using yfinance library and BeautifulSoup.
 - https://github.com/mubashir-yaseen/Extracting-and-Visualizing-Stock-Data.git
 
-## Project Title: House Sales Analysis in King County, USA
+### House Sales Analysis in King County, USA
 
-### Introduction:
+#### Introduction:
 This project focuses on analyzing historical house sales data in King County, USA, with the goal of building predictive models for house prices. The project encompasses various stages, including data importing, data wrangling, exploratory data analysis (EDA), model development, evaluation, and refinement.
 
-### Key Features:
-- Data importing from **CSV files**
+#### Key Features:
 - Data wrangling and preprocessing
 - Exploratory data analysis (EDA) to uncover insights and trends
 - Model development using machine learning algorithms
 - Evaluation of model performance and refinement
 
-### Technologies Used:
-- Python
-- pandas
-- matplotlib
-- NumPy
-- seaborn
-- scikit-learn
+#### Technologies Used:
+- Python, pandas, matplotlib, NumPy, seaborn, scikit-learn
 
 ### Project Links:
 - [GitHub Repository](link-to-your-repo)
