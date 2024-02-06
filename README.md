@@ -34,10 +34,8 @@ This project focuses on analyzing historical house sales data in King County, US
 #### Technologies Used:
 - Python, pandas, matplotlib, NumPy, seaborn, scikit-learn
 #### Project Links:
-- [GitHub Repository](link-to-your-repo)
+- https://github.com/mubashir-yaseen/DataScience_Assignments/blob/8439475fedb89165c9d24922db1062adda4fcfe7/House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite.ipynb
 - [Live Demo](link-to-live-demo) (if applicable)
-#### Screenshots:
-![Data Visualization](link-to-screenshot)
 #### Conclusion:
 The project showcased proficiency in data analysis, machine learning, and model evaluation techniques, providing valuable insights into house price predictions in King County, USA. Future enhancements may include feature engineering, model tuning, and deployment of predictive models.
 
