@@ -39,7 +39,7 @@
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/muhammad-mubashir-38a1361a1/
-- [Personal Portfolio]: [Your Portfolio URL]
+- [Personal Portfolio]: https://github.com/mubashir-yaseen
 - Email: mubashir_yaseen@hotmail.com
 
 ## 👀 More About Me
