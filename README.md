@@ -21,6 +21,7 @@
 
 ### Extracting and Visualizing Stock Data
 - Implemented Analyzing of Historical Stock/Revenue Data and Building a Dashboard
+- Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
 - Technologies used: Webscraping using yfinance library and BeautifulSoup.
 - https://github.com/mubashir-yaseen/DataScience_Assignments/blob/197393c23a6e6ab87b2a3c6d6bcce5c408fd1138/Extracting%20and%20Visualizing%20Stock%20Data.ipynb
 
