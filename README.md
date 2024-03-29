@@ -15,7 +15,7 @@
 - **Machine Learning:** Scikit-learn, TensorFlow
 - **Database:** SQL
 - **Visualization:** Matplotlib, Seaborn
-- **Other Skills:** [Any additional skills you possess]
+- **Other Skills:** 
 
 ## 📊 Projects
 
@@ -51,6 +51,6 @@
 
 ## 👀 More About Me
 
-- [Any additional details, achievements, or information you'd like to highlight].
+- 
 
 -->
