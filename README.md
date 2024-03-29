@@ -33,28 +33,30 @@
 
 ## 📊 Projects
 
-## 🎬 Movie Recommendation System
+## Smart Movie Recommendation System
 
-- **Description**: Developed a movie recommendation system using collaborative filtering techniques, analyzing user-item interactions to generate personalized recommendations for users.
-  
-- **Key Features**:
-  - Utilized collaborative filtering based on user-item interactions.
-  - Implemented recommendation generation for users.
-  - Integrated evaluation metrics to assess recommendation quality.
-  - Incorporated user feedback for refining recommendations.
+### Description:
+Developed a movie recommendation system using collaborative filtering techniques, analyzing user-item interactions to generate personalized recommendations for users. The system incorporates user feedback to automatically update and refine recommendations which makes it really smart.
 
-- **Technologies Used**:
-  - Python for development.
-  - Flask for creating the web application.
-  - TMDB API for fetching movie data.
-  - Web scraping using BeautifulSoup for data extraction.
-  - Pandas and NumPy for data manipulation.
-  - Scikit-learn for machine learning algorithms.
-  - HTML/CSS for frontend design.
+### Key Features:
+- Utilized collaborative filtering based on user-item interactions.
+- Implemented recommendation generation for users.
+- Integrated evaluation metrics to assess recommendation quality.
+- Incorporated user feedback for refining recommendations, automatically updating recommendations based on user interactions.
 
-- **Project Website**: [Live Demo](https://recommendation-sys-uy0j.onrender.com)
-  
-- **GitHub Repository**: [mubashir-yaseen/recommendation_sys](https://github.com/mubashir-yaseen/recommendation_sys)
+### Technologies Used:
+- **Python:** Core language for development.
+- **Flask:** Web framework for creating the web application.
+- **TMDB API:** Used for fetching movie data.
+- **Pandas and NumPy:** Data manipulation and analysis.
+- **Scikit-learn:** Machine learning algorithms for collaborative filtering.
+- **HTML/CSS:** Frontend design of the web application.
+
+### Project Website: 
+[Live Demo](https://recommendation-sys-uy0j.onrender.com)
+
+### GitHub Repository: 
+[mubashir-yaseen/recommendation_sys](https://github.com/mubashir-yaseen/recommendation_sys)
 
 
 ### Extracting and Visualizing Stock Data
