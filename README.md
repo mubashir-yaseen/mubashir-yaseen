@@ -56,7 +56,7 @@ Developed a movie recommendation system using collaborative filtering techniques
 [Live Demo](https://recommendation-sys-uy0j.onrender.com)
 
 ### GitHub Repository: 
-[mubashir-yaseen/recommendation_sys](https://github.com/mubashir-yaseen/recommendation_sys)
+[Recommendation System](https://github.com/mubashir-yaseen/recommendation_sys)
 
 ## 2. Heart Disease Prediction System
 
@@ -64,7 +64,7 @@ Developed a movie recommendation system using collaborative filtering techniques
 Developed a heart disease prediction system using a neural network-based machine learning model to predict the likelihood of heart disease in individuals. The system takes various health-related inputs and provides predictions, aiding in early diagnosis and awareness. 
 
 ### Key Features:
-- Implemented a neural network with multiple layers for binary classification of heart disease presence.
+- Implemented a **Neural network algorithm** with multiple layers for binary classification of heart disease presence.
 - Preprocessed data with feature scaling and handled categorical variables.
 - Provided a user-friendly interface for live predictions based on user inputs.
 - Visualized model training performance with accuracy and loss graphs.
@@ -111,7 +111,7 @@ Developed an SMS Spam Prediction System to classify messages as either "Spam" or
 *Deployment Pending*
 
 ### GitHub Repository: 
-[mubashir-yaseen/sms_spam_filter](https://github.com/mubashir-yaseen/sms_spam_filter)
+[SMS SPAM Detection](https://github.com/mubashir-yaseen/sms_spam_filter)
 
 
 ## 4. Breast Cancer Prediction System
@@ -135,7 +135,7 @@ Developed a Breast Cancer Prediction System to classify breast cancer instances 
 - **Kaggle Breast Cancer Wisconsin (Diagnostic) Dataset:** Used as the primary dataset for training and testing the model.
 
 ### GitHub Repository: 
-[mubashir-yaseen/breast_cancer_prediction](https://github.com/mubashir-yaseen/breast_cancer_prediction)
+[Breast Cancer Detection](https://github.com/mubashir-yaseen/breast_cancer_prediction)
 
 ## . Stock Data Analysis
 - Implemented Analyzing of Historical Stock/Revenue Data and Building a Dashboard
