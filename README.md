@@ -77,6 +77,9 @@ Developed a heart disease prediction system using a neural network-based machine
 - **Matplotlib and Seaborn:** Visualizations for training performance.
 - **Scikit-learn:** Data preprocessing and evaluation metrics.
 
+### Dataset:
+- **Kaggle Heart Disease Dataset:** Used as the primary dataset for training and testing the model.
+
 ### Project Website:  
 *Deployment Pending*
 
@@ -84,13 +87,40 @@ Developed a heart disease prediction system using a neural network-based machine
 [mubashir-yaseen/heart_disease_prediction](https://github.com/mubashir-yaseen/heart_disease_prediction)
 
 
-## 3. Stock Data Analysis
+## 3. SMS Spam Prediction System
+
+### Description:
+Developed an SMS Spam Prediction System to classify messages as either "Spam" or "Ham" (Not Spam). The system analyzes text messages and leverages machine learning algorithms to automate the detection of spam messages with high accuracy.
+
+### Key Features:
+- Utilized the **Naive Bayes algorithm** for classification tasks.
+- Processed and cleaned SMS text data to ensure efficient model training and evaluation.
+- Integrated evaluation metrics (e.g., accuracy, precision, recall, and F1 score) to assess model performance.
+- Designed a user input feature that predicts whether a given SMS message is spam or not.
+
+### Technologies Used:
+- **Python:** Core language for development.
+- **Pandas and NumPy:** Data manipulation and preprocessing.
+- **Scikit-learn:** Machine learning model implementation and evaluation.
+- **Matplotlib/Seaborn:** Visualization of data insights and results.
+
+### Dataset:
+- **Kaggle SMS Spam Dataset:** Used as the primary dataset for training and testing the model.
+
+### Project Website:  
+*Deployment Pending*
+
+### GitHub Repository: 
+[mubashir-yaseen/sms_spam_filter](https://github.com/mubashir-yaseen/sms_spam_filter)
+
+
+## . Stock Data Analysis
 - Implemented Analyzing of Historical Stock/Revenue Data and Building a Dashboard
 - Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
 - Technologies used: Webscraping using yfinance library and BeautifulSoup.
 - https://github.com/mubashir-yaseen/DataScience_Assignments/blob/197393c23a6e6ab87b2a3c6d6bcce5c408fd1138/Extracting%20and%20Visualizing%20Stock%20Data.ipynb
 
-## 4. House Sales Analysis in King County, USA
+## . House Sales Analysis in King County, USA
 - Analyzed historical house sales data in King County, USA, & Build predictive models for house prices.
 - Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
 - Technologies Used: Python, pandas, matplotlib, NumPy, seaborn, scikit-learn
