@@ -114,6 +114,29 @@ Developed an SMS Spam Prediction System to classify messages as either "Spam" or
 [mubashir-yaseen/sms_spam_filter](https://github.com/mubashir-yaseen/sms_spam_filter)
 
 
+## 4. Breast Cancer Prediction System
+
+### Description:
+Developed a Breast Cancer Prediction System to classify breast cancer instances as either "Malignant" or "Benign" using Support Vector Machine (SVM) algorithms. The system is designed to help in early detection of breast cancer based on diagnostic features, enabling healthcare professionals to make informed decisions.
+
+### Key Features:
+- Utilized the **SVM (Support Vector Machine)** algorithm for binary classification.
+- Preprocessed and cleaned data from the **Kaggle Breast Cancer Dataset**.
+- Evaluated model performance using classification metrics like accuracy, precision, recall, and F1 score.
+- Designed for ease of use, allowing for predictions based on input feature values.
+
+### Technologies Used:
+- **Python:** Core language for development.
+- **Pandas and NumPy:** Data manipulation and preprocessing.
+- **Scikit-learn:** Machine learning model implementation and evaluation.
+- **Matplotlib/Seaborn:** Data visualization for insights and model evaluation.
+
+### Dataset:
+- **Kaggle Breast Cancer Wisconsin (Diagnostic) Dataset:** Used as the primary dataset for training and testing the model.
+
+### GitHub Repository: 
+[mubashir-yaseen/breast_cancer_prediction](https://github.com/mubashir-yaseen/breast_cancer_prediction)
+
 ## . Stock Data Analysis
 - Implemented Analyzing of Historical Stock/Revenue Data and Building a Dashboard
 - Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
