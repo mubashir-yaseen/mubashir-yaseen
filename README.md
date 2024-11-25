@@ -33,7 +33,7 @@
 
 ## 📊 Projects
 
-## Smart Movie Recommendation System
+## 1. Smart Movie Recommendation System
 
 ### Description:
 Developed a movie recommendation system using collaborative filtering techniques, analyzing user-item interactions to generate personalized recommendations for users. The system incorporates user feedback to automatically update and refine recommendations which makes it really smart.
@@ -58,14 +58,39 @@ Developed a movie recommendation system using collaborative filtering techniques
 ### GitHub Repository: 
 [mubashir-yaseen/recommendation_sys](https://github.com/mubashir-yaseen/recommendation_sys)
 
+## 2. Heart Disease Prediction System
 
-### Extracting and Visualizing Stock Data
+### Description:
+Developed a heart disease prediction system using a neural network-based machine learning model to predict the likelihood of heart disease in individuals. The system takes various health-related inputs and provides predictions, aiding in early diagnosis and awareness. 
+
+### Key Features:
+- Implemented a neural network with multiple layers for binary classification of heart disease presence.
+- Preprocessed data with feature scaling and handled categorical variables.
+- Provided a user-friendly interface for live predictions based on user inputs.
+- Visualized model training performance with accuracy and loss graphs.
+- Evaluated model performance using classification metrics like accuracy and precision.
+
+### Technologies Used:
+- **Python:** Core language for development.
+- **TensorFlow/Keras:** Framework for building and training the neural network.
+- **Pandas and NumPy:** Data manipulation and preprocessing.
+- **Matplotlib and Seaborn:** Visualizations for training performance.
+- **Scikit-learn:** Data preprocessing and evaluation metrics.
+
+### Project Website:  
+*Deployment Pending*
+
+### GitHub Repository:  
+[mubashir-yaseen/heart_disease_prediction](https://github.com/mubashir-yaseen/heart_disease_prediction)
+
+
+## 3. Stock Data Analysis
 - Implemented Analyzing of Historical Stock/Revenue Data and Building a Dashboard
 - Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
 - Technologies used: Webscraping using yfinance library and BeautifulSoup.
 - https://github.com/mubashir-yaseen/DataScience_Assignments/blob/197393c23a6e6ab87b2a3c6d6bcce5c408fd1138/Extracting%20and%20Visualizing%20Stock%20Data.ipynb
 
-### House Sales Analysis in King County, USA
+## 4. House Sales Analysis in King County, USA
 - Analyzed historical house sales data in King County, USA, & Build predictive models for house prices.
 - Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
 - Technologies Used: Python, pandas, matplotlib, NumPy, seaborn, scikit-learn
