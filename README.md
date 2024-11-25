@@ -137,6 +137,30 @@ Developed a Breast Cancer Prediction System to classify breast cancer instances 
 ### GitHub Repository: 
 [Breast Cancer Detection](https://github.com/mubashir-yaseen/breast_cancer_prediction)
 
+
+## 5. Diabetes Prediction System
+
+### Description:
+Developed a Diabetes Detection System using the Decision Tree Classification algorithm to predict whether a person has diabetes based on diagnostic features. The system is designed to assist in the early identification of diabetes, providing valuable support for healthcare professionals and patients.
+
+### Key Features:
+- Utilized the **Decision Tree Classification** algorithm for binary classification.
+- Preprocessed and analyzed data from the **Kaggle Diabetes Dataset**.
+- Evaluated the model using metrics such as accuracy, precision, recall, and F1 score.
+- Provides predictions based on user input for diagnostic features.
+
+### Technologies Used:
+- **Python:** Core language for development.
+- **Pandas and NumPy:** Data preprocessing and analysis.
+- **Scikit-learn:** Model implementation and performance evaluation.
+- **Matplotlib/Seaborn:** Visualization of feature importance and evaluation metrics.
+
+### Dataset:
+- **Kaggle Diabetes Dataset:** Used as the primary dataset for training and testing the model.
+
+### GitHub Repository: 
+[Diabetes Prediction System](https://github.com/mubashir-yaseen/diabetes_detection_system)
+
 ## . Stock Data Analysis
 - Implemented Analyzing of Historical Stock/Revenue Data and Building a Dashboard
 - Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
