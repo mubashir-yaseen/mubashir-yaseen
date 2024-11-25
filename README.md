@@ -84,7 +84,7 @@ Developed a heart disease prediction system using a neural network-based machine
 *Deployment Pending*
 
 ### GitHub Repository:  
-[mubashir-yaseen/heart_disease_prediction](https://github.com/mubashir-yaseen/heart_disease_prediction)
+[Heart Disease Prediction](https://github.com/mubashir-yaseen/heart_disease_prediction)
 
 
 ## 3. SMS Spam Prediction System
@@ -141,19 +141,19 @@ Developed a Breast Cancer Prediction System to classify breast cancer instances 
 - Implemented Analyzing of Historical Stock/Revenue Data and Building a Dashboard
 - Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
 - Technologies used: Webscraping using yfinance library and BeautifulSoup.
-- https://github.com/mubashir-yaseen/DataScience_Assignments/blob/197393c23a6e6ab87b2a3c6d6bcce5c408fd1138/Extracting%20and%20Visualizing%20Stock%20Data.ipynb
+- [Stock Data Analysis](https://github.com/mubashir-yaseen/DataScience_Assignments/blob/197393c23a6e6ab87b2a3c6d6bcce5c408fd1138/Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
 
 ## . House Sales Analysis in King County, USA
 - Analyzed historical house sales data in King County, USA, & Build predictive models for house prices.
 - Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
 - Technologies Used: Python, pandas, matplotlib, NumPy, seaborn, scikit-learn
-- https://github.com/mubashir-yaseen/DataScience_Assignments/blob/8439475fedb89165c9d24922db1062adda4fcfe7/House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite.ipynb
+- [House Sales Analysis](https://github.com/mubashir-yaseen/DataScience_Assignments/blob/8439475fedb89165c9d24922db1062adda4fcfe7/House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite.ipynb)
 - Conclusion: The project showcased proficiency in data analysis, machine learning, and model evaluation techniques, providing valuable insights into house price predictions in King County, USA. Future enhancements may include feature engineering, model tuning, and deployment of predictive models.
 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mubashir-yaseen&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mubashir-yaseen&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
