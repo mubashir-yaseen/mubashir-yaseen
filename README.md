@@ -161,6 +161,31 @@ Developed a Diabetes Detection System using the Decision Tree Classification alg
 ### GitHub Repository: 
 [Diabetes Prediction System](https://github.com/mubashir-yaseen/diabetes_detection_system)
 
+
+## 6. Karachi House Price Prediction System
+
+### Description:
+Developed a Karachi House Price Prediction System using the Decision Tree Regression algorithm to estimate house prices based on key features such as the number of bedrooms, bathrooms, and area. The system aims to assist real estate stakeholders in making data-driven decisions.
+
+### Key Features:
+- Utilized the **Decision Tree Regression** algorithm for predicting house prices.
+- Preprocessed and analyzed data from the **Kaggle Karachi_House_Prices_Data.csv** dataset.
+- Evaluated model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
+- Provides predictions based on user input for property details.
+
+### Technologies Used:
+- **Python:** Core language for development.
+- **Pandas and NumPy:** Data preprocessing and analysis.
+- **Scikit-learn:** Model implementation and performance evaluation.
+- **Matplotlib/Seaborn:** Visualization of feature importance and evaluation metrics.
+
+### Dataset:
+- **Kaggle Karachi_House_Prices_Data.csv:** Used as the primary dataset for training and testing the model.
+
+### GitHub Repository: 
+[Karachi House Price Prediction System](https://github.com/mubashir-yaseen/karachi_house_price_prediction_system)
+
+
 ## . Stock Data Analysis
 - Implemented Analyzing of Historical Stock/Revenue Data and Building a Dashboard
 - Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
