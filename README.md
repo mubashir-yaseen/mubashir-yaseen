@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 🎓 Graduated in Electrical Engineering from National University of Sciences and Technology (NUST).
-- 💼 Currently exploring the intersection of data science and Electrical Engineering.
+- 💼 Currently exploring the intersection of data science, AI Engineering, ML Engineering, Generative AI.
 - 🌱 Keen on continuous learning and staying updated with the latest in data science.
 
 ## 🔧 Skills
