@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Muhammad%20Mubashir&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Building%20Production%20AI%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Muhammad%20Mubashir&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%40%20Pakistan%20Petroleum%20Limited&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Production-Grade+AI+Systems;Enterprise+RAG+%7C+LLM+Applications+%7C+Agentic+AI;Turning+Research+into+Real-World+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+Complex+Business+Challenges+into+Scalable+Solutions;Machine+Learning+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Data+Scientist+%40+Pakistan+Petroleum+Limited" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,14 +23,30 @@
 
 <table>
 <tr>
-<td>
+<td width="25%" align="center">
 
-✓ **4+ Years** of Industry Experience
-✓ Data Scientist @ **Pakistan Petroleum Limited**
-✓ Senior AI Engineer @ **Bluexech**
-✓ Visiting Faculty (AI & Data Science) @ **Greenwich University**
-✓ MS Artificial Intelligence *(In Progress)* — NED University
-✓ Building production AI systems using ML, LLMs, RAG, and agentic workflows
+**🕒 Experience**
+4+ Years
+
+</td>
+<td width="25%" align="center">
+
+**💼 Roles**
+Data Scientist @ PPL
+AI Engineer @ Bluexech
+
+</td>
+<td width="25%" align="center">
+
+**🎓 Education**
+MS AI *(In Progress)*
+BE Electrical Engineering
+
+</td>
+<td width="25%" align="center">
+
+**🧠 Focus**
+ML · LLMs · RAG · Agentic AI
 
 </td>
 </tr>
@@ -44,7 +60,7 @@
 
 I'm a Data Scientist and AI Engineer with 4+ years of experience across predictive analytics, machine learning, and applied generative AI. My current work spans an industrial data science role at PPL, AI engineering at Bluexech, and teaching AI & Data Science at Greenwich University.
 
-I focus on taking AI systems from prototype to something that can actually be deployed and relied on — retrieval pipelines, agentic workflows, and document intelligence systems built around real business constraints.
+My work usually starts with a messy, real-world problem — a document backlog, a forecasting gap, a support workflow that doesn't scale — and ends with something people can rely on day to day.
 
 ---
 
@@ -81,21 +97,21 @@ Teaching applied AI and Data Science to undergraduate students.
 
 ---
 
-## 🚧 Currently Building
+## 🚧 Currently Working On
 
 <div align="center">
 
 | | |
 |---|---|
-| 🏢 Enterprise AI Systems | 🕸️ Agentic AI Workflows |
-| 📚 Retrieval-Augmented Generation (RAG) | ⚡ FastAPI AI Services |
-| 📄 Document Intelligence | 📈 Predictive Analytics |
+| 🕸️ Agentic AI Workflows | 📚 Retrieval-Augmented Generation (RAG) |
+| ⚡ FastAPI Services for AI Applications | 📄 Document Intelligence |
+| 📈 Predictive Analytics | 🧩 Model Context Protocol (MCP) |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Work With
 
 <div align="center">
 
@@ -103,13 +119,17 @@ Teaching applied AI and Data Science to undergraduate students.
 
 ![Python](https://skillicons.dev/icons?i=python) ![SQL](https://skillicons.dev/icons?i=postgres) ![C++](https://skillicons.dev/icons?i=cpp)
 
-**Frameworks & Tools**
+**Backend & Infrastructure**
 
-![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
 **AI / ML Libraries**
 
-![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://skillicons.dev/icons?i=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://skillicons.dev/icons?i=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
 </div>
 
@@ -121,12 +141,12 @@ Teaching applied AI and Data Science to undergraduate students.
 <th>Stack</th>
 </tr>
 <tr>
-<td><b>🧠 AI & ML</b></td>
-<td>Machine Learning · Deep Learning · Generative AI · LLMs · RAG · Agentic AI · NLP · Computer Vision</td>
+<td><b>🧠 Machine Learning & AI</b></td>
+<td>Machine Learning · Deep Learning · Generative AI · NLP · Computer Vision</td>
 </tr>
 <tr>
-<td><b>🔗 Agentic Frameworks</b></td>
-<td>LangChain · LangGraph · CrewAI</td>
+<td><b>🔗 LLMs & Agentic AI</b></td>
+<td>LangChain · LangGraph · CrewAI · Hugging Face Transformers · OpenAI API · Ollama · Retrieval-Augmented Generation (RAG) · Model Context Protocol (MCP)</td>
 </tr>
 <tr>
 <td><b>🗄️ Vector & Search</b></td>
@@ -137,12 +157,20 @@ Teaching applied AI and Data Science to undergraduate students.
 <td>OCR · Document Intelligence Pipelines</td>
 </tr>
 <tr>
-<td><b>⚡ Serving & Infra</b></td>
-<td>FastAPI · Flask · Docker · REST APIs</td>
+<td><b>⚡ Backend & APIs</b></td>
+<td>FastAPI · Flask · REST APIs · Streamlit</td>
 </tr>
 <tr>
-<td><b>🧩 Emerging</b></td>
-<td>Prompt Engineering · Model Context Protocol (MCP)</td>
+<td><b>🗃️ Databases</b></td>
+<td>PostgreSQL · MySQL · SQLite · Vector Databases</td>
+</tr>
+<tr>
+<td><b>📊 Visualization</b></td>
+<td>Matplotlib · Plotly</td>
+</tr>
+<tr>
+<td><b>🧩 Other</b></td>
+<td>Prompt Engineering · Predictive Analytics · Workflow Automation</td>
 </tr>
 </table>
 
@@ -154,8 +182,8 @@ Teaching applied AI and Data Science to undergraduate students.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Enterprise RAG Chatbot
-Retrieval-augmented chatbot built for grounded, context-aware question answering, with a deployed live demo.
+### 🤖 RAG Chatbot
+Retrieval-augmented chatbot for grounded, context-aware question answering, with a deployed live demo.
 
 **Stack:** `Python` `LangChain` `FAISS` `Streamlit`
 
@@ -282,7 +310,7 @@ NUST
 
 <div align="center">
 
-I'm open to conversations about AI engineering roles, applied ML work, and enterprise AI projects.
+I'm open to conversations about AI engineering roles and applied ML work — feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mubashir-38a1361a1/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashiryaseen@hotmail.com)
