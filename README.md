@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Muhammad%20Mubashir&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%40%20Pakistan%20Petroleum%20Limited&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+Business+Challenges+into+Scalable+Solutions;Machine+Learning+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Data+Scientist+%40+Pakistan+Petroleum+Limited" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+Business+Challenges+into+Scalable+Solution;Machine+Learning+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI;Data+Scientist+%40+Pakistan+Petroleum+Limited" alt="Typing SVG" />
 </a>
 
 <br/>
