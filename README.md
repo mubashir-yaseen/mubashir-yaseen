@@ -1,217 +1,328 @@
-### Muhammad Mubashir
+<div align="center">
 
-👋 Hello! I'm Mubashir, a data scientist passionate about deriving insights from data and solving real-world problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Muhammad%20Mubashir&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Building%20Production%20AI%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-## 🚀 About Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Production-Grade+AI+Systems;Enterprise+RAG+%7C+LLM+Applications+%7C+Agentic+AI;Turning+Research+into+Real-World+Deployments" alt="Typing SVG" />
+</a>
 
-- 🎓 Graduated in Electrical Engineering from National University of Sciences and Technology (NUST).
-- 💼 Currently exploring the intersection of data science, AI Engineering, ML Engineering, Generative AI.
-- 🌱 Keen on continuous learning and staying updated with the latest in data science.
+<br/>
 
-## 🔧 Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)
 
-## Skills
-- **Programming Languages:** Python, R
-- **Data Analysis:** Pandas, NumPy
-- **Machine Learning:** Scikit-learn, TensorFlow
-- **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch
-- **Natural Language Processing (NLP):** NLTK
-- **Database:** SQL
-- **Cloud Platforms:** AWS, Azure, Google Cloud Platform (GCP)
-- **Version Control:** Git, GitHub
-- **Visualization:** Matplotlib, Seaborn
-- **Statistical Analysis:** SciPy, StatsModels
-- **Data Cleaning and Preprocessing:** scikit-learn's preprocessing module, pandas
-- **Experimentation and A/B Testing:** Designing experiments, analyzing results
-- **Time Series Analysis:** Prophet, ARIMA models
-- **Feature Engineering:** Creating new features from existing data to improve model performance
-- **Model Deployment:** Docker, Flask, Streamlit
-- **Data Engineering:** ETL (Extract, Transform, Load) processes, data pipelines
-- **Quantitative Analysis:** Statistical modeling, hypothesis testing
-- **Collaboration and Communication:** Effective communication skills, teamwork, presentation skills
- 
+</div>
 
-## 📊 Projects
+<br/>
 
-## 1. Smart Movie Recommendation System
+## 🧭 About Me
 
-### Description:
-Developed a movie recommendation system using collaborative filtering techniques, analyzing user-item interactions to generate personalized recommendations for users. The system incorporates user feedback to automatically update and refine recommendations which makes it really smart.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
-### Key Features:
-- Utilized collaborative filtering based on user-item interactions.
-- Implemented recommendation generation for users.
-- Integrated evaluation metrics to assess recommendation quality.
-- Incorporated user feedback for refining recommendations, automatically updating recommendations based on user interactions.
+I'm a **Data Scientist** and **AI Engineer** who designs and ships production AI systems — not notebooks that stay on a laptop.
 
-### Technologies Used:
-- **Python:** Core language for development.
-- **Flask:** Web framework for creating the web application.
-- **TMDB API:** Used for fetching movie data.
-- **Pandas and NumPy:** Data manipulation and analysis.
-- **Scikit-learn:** Machine learning algorithms for collaborative filtering.
-- **HTML/CSS:** Frontend design of the web application.
+My work sits at the intersection of **LLMs, Retrieval-Augmented Generation, and Agentic AI**, applied to real enterprise problems: document intelligence, workflow automation, and decision-support systems that people actually use.
 
-### Project Website: 
-[Live Demo](https://recommendation-sys-uy0j.onrender.com)
+```python
+class MuhammadMubashir:
+    def __init__(self):
+        self.role         = ["Data Scientist @ PPL", "Senior AI Engineer @ Bluexech", "Visiting Faculty @ Greenwich University"]
+        self.focus        = ["Enterprise AI", "LLM Applications", "RAG Systems", "Agentic AI"]
+        self.currently    = "Designing production-grade RAG & agent pipelines"
+        self.philosophy   = "Ship systems that survive contact with real data"
 
-### GitHub Repository: 
-[Recommendation System](https://github.com/mubashir-yaseen/recommendation_sys)
+    def get_in_touch(self):
+        return "let's build something that scales"
+```
 
-## 2. Heart Disease Prediction System
+<br clear="right"/>
 
-### Description:
-Developed a heart disease prediction system using a neural network-based machine learning model to predict the likelihood of heart disease in individuals. The system takes various health-related inputs and provides predictions, aiding in early diagnosis and awareness. 
+---
 
-### Key Features:
-- Implemented a **Neural network algorithm** with multiple layers for binary classification of heart disease presence.
-- Preprocessed data with feature scaling and handled categorical variables.
-- Provided a user-friendly interface for live predictions based on user inputs.
-- Visualized model training performance with accuracy and loss graphs.
-- Evaluated model performance using classification metrics like accuracy and precision.
+## 💼 Current Work
 
-### Technologies Used:
-- **Python:** Core language for development.
-- **TensorFlow/Keras:** Framework for building and training the neural network.
-- **Pandas and NumPy:** Data manipulation and preprocessing.
-- **Matplotlib and Seaborn:** Visualizations for training performance.
-- **Scikit-learn:** Data preprocessing and evaluation metrics.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### Dataset:
-- **Kaggle Heart Disease Dataset:** Used as the primary dataset for training and testing the model.
+### 🛢️ Data Scientist
+**Pakistan Petroleum Limited (PPL)**
 
-### Project Website:  
-*Deployment Pending*
+Applying data science and predictive analytics to industrial-scale operations and decision support.
 
-### GitHub Repository:  
-[Heart Disease Prediction](https://github.com/mubashir-yaseen/heart_disease_prediction)
+</td>
+<td width="33%" valign="top">
 
+### 🤖 Senior AI Engineer <sub>(Part-Time)</sub>
+**Bluexech**
 
-## 3. SMS Spam Prediction System
+Designing and deploying LLM-powered, agentic, and RAG-based enterprise systems.
 
-### Description:
-Developed an SMS Spam Prediction System to classify messages as either "Spam" or "Ham" (Not Spam). The system analyzes text messages and leverages machine learning algorithms to automate the detection of spam messages with high accuracy.
+</td>
+<td width="33%" valign="top">
 
-### Key Features:
-- Utilized the **Naive Bayes algorithm** for classification tasks.
-- Processed and cleaned SMS text data to ensure efficient model training and evaluation.
-- Integrated evaluation metrics (e.g., accuracy, precision, recall, and F1 score) to assess model performance.
-- Designed a user input feature that predicts whether a given SMS message is spam or not.
+### 🎓 Visiting Faculty — AI & Data Science
+**Greenwich University**
 
-### Technologies Used:
-- **Python:** Core language for development.
-- **Pandas and NumPy:** Data manipulation and preprocessing.
-- **Scikit-learn:** Machine learning model implementation and evaluation.
-- **Matplotlib/Seaborn:** Visualization of data insights and results.
+Teaching applied AI and Data Science, bridging research and production practice.
 
-### Dataset:
-- **Kaggle SMS Spam Dataset:** Used as the primary dataset for training and testing the model.
+</td>
+</tr>
+</table>
 
-### Project Website:  
-*Deployment Pending*
+---
 
-### GitHub Repository: 
-[SMS SPAM Detection](https://github.com/mubashir-yaseen/sms_spam_filter)
+## 🎯 What I Build
 
+<div align="center">
 
-## 4. Breast Cancer Prediction System
+| Domain | Focus |
+|---|---|
+| 🏢 **Enterprise AI** | Scalable, production-ready AI systems for real business workflows |
+| 🧠 **LLM Applications** | End-to-end applications powered by large language models |
+| 📚 **RAG Systems** | Retrieval-augmented pipelines for grounded, accurate responses |
+| 🕸️ **Agentic AI** | Multi-agent systems that plan, reason, and execute tasks |
+| 📄 **Document Intelligence** | OCR, extraction, and understanding pipelines for unstructured data |
+| ⚙️ **AI Automation** | Workflow automation that removes manual, repetitive work |
+| 📈 **Predictive Analytics** | ML/DL models for forecasting and decision support |
+| 📊 **Business Intelligence** | Turning raw data into actionable insight |
 
-### Description:
-Developed a Breast Cancer Prediction System to classify breast cancer instances as either "Malignant" or "Benign" using Support Vector Machine (SVM) algorithms. The system is designed to help in early detection of breast cancer based on diagnostic features, enabling healthcare professionals to make informed decisions.
+</div>
 
-### Key Features:
-- Utilized the **SVM (Support Vector Machine)** algorithm for binary classification.
-- Preprocessed and cleaned data from the **Kaggle Breast Cancer Dataset**.
-- Evaluated model performance using classification metrics like accuracy, precision, recall, and F1 score.
-- Designed for ease of use, allowing for predictions based on input feature values.
+---
 
-### Technologies Used:
-- **Python:** Core language for development.
-- **Pandas and NumPy:** Data manipulation and preprocessing.
-- **Scikit-learn:** Machine learning model implementation and evaluation.
-- **Matplotlib/Seaborn:** Data visualization for insights and model evaluation.
+## 🧱 Architecture Mindset
 
-### Dataset:
-- **Kaggle Breast Cancer Wisconsin (Diagnostic) Dataset:** Used as the primary dataset for training and testing the model.
+<div align="center">
 
-### GitHub Repository: 
-[Breast Cancer Detection](https://github.com/mubashir-yaseen/breast_cancer_prediction)
+```
+   User / Business Need
+          │
+          ▼
+   ┌─────────────────┐
+   │   Data Layer      │  → Ingestion, OCR, Cleaning, Vector Indexing
+   └─────────────────┘
+          │
+          ▼
+   ┌─────────────────┐
+   │  Intelligence Layer │  → LLMs, RAG, Agentic Orchestration
+   └─────────────────┘
+          │
+          ▼
+   ┌─────────────────┐
+   │  Serving Layer     │  → FastAPI, REST APIs, Docker
+   └─────────────────┘
+          │
+          ▼
+     Production System
+```
 
+I don't just prototype models — I think in terms of **data pipelines, retrieval quality, latency, and deployability** from day one.
 
-## 5. Diabetes Prediction System
+</div>
 
-### Description:
-Developed a Diabetes Detection System using the Decision Tree Classification algorithm to predict whether a person has diabetes based on diagnostic features. The system is designed to assist in the early identification of diabetes, providing valuable support for healthcare professionals and patients.
+---
 
-### Key Features:
-- Utilized the **Decision Tree Classification** algorithm for binary classification.
-- Preprocessed and analyzed data from the **Kaggle Diabetes Dataset**.
-- Evaluated the model using metrics such as accuracy, precision, recall, and F1 score.
-- Provides predictions based on user input for diagnostic features.
+## 🛠️ Tech Stack
 
-### Technologies Used:
-- **Python:** Core language for development.
-- **Pandas and NumPy:** Data preprocessing and analysis.
-- **Scikit-learn:** Model implementation and performance evaluation.
-- **Matplotlib/Seaborn:** Visualization of feature importance and evaluation metrics.
+<div align="center">
 
-### Dataset:
-- **Kaggle Diabetes Dataset:** Used as the primary dataset for training and testing the model.
+**Languages**
 
-### GitHub Repository: 
-[Diabetes Prediction System](https://github.com/mubashir-yaseen/diabetes_detection_system)
+![Python](https://skillicons.dev/icons?i=python) ![SQL](https://skillicons.dev/icons?i=postgres) ![C++](https://skillicons.dev/icons?i=cpp)
 
+**Frameworks & Tools**
 
-## 6. Karachi House Price Prediction System
+![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
-### Description:
-Developed a Karachi House Price Prediction System using the Decision Tree Regression algorithm to estimate house prices based on key features such as the number of bedrooms, bathrooms, and area. The system aims to assist real estate stakeholders in making data-driven decisions.
+**AI / ML Libraries**
 
-### Key Features:
-- Utilized the **Decision Tree Regression** algorithm for predicting house prices.
-- Preprocessed and analyzed data from the **Kaggle Karachi_House_Prices_Data.csv** dataset.
-- Evaluated model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
-- Provides predictions based on user input for property details.
+![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://skillicons.dev/icons?i=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Technologies Used:
-- **Python:** Core language for development.
-- **Pandas and NumPy:** Data preprocessing and analysis.
-- **Scikit-learn:** Model implementation and performance evaluation.
-- **Matplotlib/Seaborn:** Visualization of feature importance and evaluation metrics.
+</div>
 
-### Dataset:
-- **Kaggle Karachi_House_Prices_Data.csv:** Used as the primary dataset for training and testing the model.
+<br/>
 
-### GitHub Repository: 
-[Karachi House Price Prediction System](https://github.com/mubashir-yaseen/karachi_house_price_prediction_system)
+<table align="center">
+<tr>
+<th>Category</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td><b>🧠 AI & ML</b></td>
+<td>Machine Learning · Deep Learning · Generative AI · LLMs · RAG · Agentic AI · NLP · Computer Vision</td>
+</tr>
+<tr>
+<td><b>🔗 Agentic Frameworks</b></td>
+<td>LangChain · LangGraph · CrewAI</td>
+</tr>
+<tr>
+<td><b>🗄️ Vector & Search</b></td>
+<td>Vector Databases · FAISS · Semantic Search</td>
+</tr>
+<tr>
+<td><b>📄 Document AI</b></td>
+<td>OCR · Document Intelligence Pipelines</td>
+</tr>
+<tr>
+<td><b>⚡ Serving & Infra</b></td>
+<td>FastAPI · Flask · Docker · REST APIs</td>
+</tr>
+<tr>
+<td><b>🧩 Emerging</b></td>
+<td>Prompt Engineering · MCP (Model Context Protocol)</td>
+</tr>
+</table>
 
+---
 
-## . Stock Data Analysis
-- Implemented Analyzing of Historical Stock/Revenue Data and Building a Dashboard
-- Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
-- Technologies used: Webscraping using yfinance library and BeautifulSoup.
-- [Stock Data Analysis](https://github.com/mubashir-yaseen/DataScience_Assignments/blob/197393c23a6e6ab87b2a3c6d6bcce5c408fd1138/Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
+## 🚀 Featured Projects
 
-## . House Sales Analysis in King County, USA
-- Analyzed historical house sales data in King County, USA, & Build predictive models for house prices.
-- Key Features: Data wrangling and preprocessing, Exploratory data analysis (EDA), Model development using machine learning algorithms, Evaluation of model performance and refinement
-- Technologies Used: Python, pandas, matplotlib, NumPy, seaborn, scikit-learn
-- [House Sales Analysis](https://github.com/mubashir-yaseen/DataScience_Assignments/blob/8439475fedb89165c9d24922db1062adda4fcfe7/House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite.ipynb)
-- Conclusion: The project showcased proficiency in data analysis, machine learning, and model evaluation techniques, providing valuable insights into house price predictions in King County, USA. Future enhancements may include feature engineering, model tuning, and deployment of predictive models.
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🤖 Enterprise RAG Chatbot
+Production-oriented retrieval-augmented chatbot built for grounded, enterprise-context question answering with reduced hallucination.
 
-## 📈 GitHub Stats
+**Stack:** `Python` `LangChain` `FAISS` `FastAPI` `LLMs`
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mubashir-yaseen&show_icons=true&theme=radical)
+[🔗 View Repository](https://github.com/your-username/enterprise-rag-chatbot)
 
-## 📫 Connect with Me
+</td>
+<td width="50%" valign="top">
 
-- LinkedIn: https://www.linkedin.com/in/muhammad-mubashir-38a1361a1/
-- GitHub: https://github.com/mubashir-yaseen
-- Email: mubashir_yaseen@hotmail.com
+### 🛡️ PhishShield
+AI-driven system for detecting phishing attempts, applying ML/NLP techniques to flag malicious content in real time.
 
-## 👀 More About Me
+**Stack:** `Python` `Machine Learning` `NLP` `Scikit-learn`
 
-- 
+[🔗 View Repository](https://github.com/your-username/phishshield)
 
--->
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Document Intelligence Pipeline
+End-to-end pipeline for extracting, structuring, and understanding unstructured documents using OCR and NLP.
+
+**Stack:** `Python` `OCR` `NLP` `Document Intelligence`
+
+[🔗 View Repository](https://github.com/your-username/document-intelligence-pipeline)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Movie Recommendation System
+Recommendation engine leveraging collaborative and content-based filtering to deliver personalized suggestions.
+
+**Stack:** `Python` `Pandas` `Scikit-learn`
+
+[🔗 View Repository](https://github.com/your-username/movie-recommendation-system)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📁 More Projects (Click to Expand)</b></summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**📧 Spam Detection**
+NLP-based classifier for filtering spam content.
+`Python` `NLP` `Scikit-learn`
+[🔗 Repo](https://github.com/your-username/spam-detection)
+
+</td>
+<td width="33%" valign="top">
+
+**❤️ Heart Disease Prediction**
+Predictive ML model for early-stage risk assessment.
+`Python` `Scikit-learn` `Pandas`
+[🔗 Repo](https://github.com/your-username/heart-disease-prediction)
+
+</td>
+<td width="33%" valign="top">
+
+**🏠 House Price Prediction**
+Regression-based model for real-estate price estimation.
+`Python` `Scikit-learn` `NumPy`
+[🔗 Repo](https://github.com/your-username/house-price-prediction)
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="100%"/>
+
+</div>
+
+---
+
+## 🎓 Education
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**MS Artificial Intelligence** <sub>*(In Progress)*</sub>
+NED University
+
+</td>
+<td width="50%" valign="top">
+
+**BE Electrical Engineering**
+NUST
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to conversations about **enterprise AI, LLM systems, and agentic architectures** — whether that's a collaboration, a role, or just a good technical discussion.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Production is the only benchmark that matters."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
