@@ -8,36 +8,43 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mubashir-38a1361a1/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashiryaseen@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mubashir-yaseen)
+![Profile Views](https://komarev.com/ghpvc/?username=mubashir-yaseen&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)
 
 </div>
 
 <br/>
 
+## ⚡ Professional Snapshot
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+✓ **4+ Years** of Industry Experience
+✓ Data Scientist @ **Pakistan Petroleum Limited**
+✓ Senior AI Engineer @ **Bluexech**
+✓ Visiting Faculty (AI & Data Science) @ **Greenwich University**
+✓ MS Artificial Intelligence *(In Progress)* — NED University
+✓ Building production AI systems using ML, LLMs, RAG, and agentic workflows
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🧭 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+I'm a Data Scientist and AI Engineer with 4+ years of experience across predictive analytics, machine learning, and applied generative AI. My current work spans an industrial data science role at PPL, AI engineering at Bluexech, and teaching AI & Data Science at Greenwich University.
 
-I'm a **Data Scientist** and **AI Engineer** who designs and ships production AI systems — not notebooks that stay on a laptop.
-
-My work sits at the intersection of **LLMs, Retrieval-Augmented Generation, and Agentic AI**, applied to real enterprise problems: document intelligence, workflow automation, and decision-support systems that people actually use.
-
-```python
-class MuhammadMubashir:
-    def __init__(self):
-        self.role         = ["Data Scientist @ PPL", "Senior AI Engineer @ Bluexech", "Visiting Faculty @ Greenwich University"]
-        self.focus        = ["Enterprise AI", "LLM Applications", "RAG Systems", "Agentic AI"]
-        self.currently    = "Designing production-grade RAG & agent pipelines"
-        self.philosophy   = "Ship systems that survive contact with real data"
-
-    def get_in_touch(self):
-        return "let's build something that scales"
-```
-
-<br clear="right"/>
+I focus on taking AI systems from prototype to something that can actually be deployed and relied on — retrieval pipelines, agentic workflows, and document intelligence systems built around real business constraints.
 
 ---
 
@@ -50,7 +57,7 @@ class MuhammadMubashir:
 ### 🛢️ Data Scientist
 **Pakistan Petroleum Limited (PPL)**
 
-Applying data science and predictive analytics to industrial-scale operations and decision support.
+Applying data science and predictive analytics to industrial operations and decision support.
 
 </td>
 <td width="33%" valign="top">
@@ -58,7 +65,7 @@ Applying data science and predictive analytics to industrial-scale operations an
 ### 🤖 Senior AI Engineer <sub>(Part-Time)</sub>
 **Bluexech**
 
-Designing and deploying LLM-powered, agentic, and RAG-based enterprise systems.
+Designing and deploying LLM-powered, agentic, and RAG-based systems.
 
 </td>
 <td width="33%" valign="top">
@@ -66,7 +73,7 @@ Designing and deploying LLM-powered, agentic, and RAG-based enterprise systems.
 ### 🎓 Visiting Faculty — AI & Data Science
 **Greenwich University**
 
-Teaching applied AI and Data Science, bridging research and production practice.
+Teaching applied AI and Data Science to undergraduate students.
 
 </td>
 </tr>
@@ -74,52 +81,15 @@ Teaching applied AI and Data Science, bridging research and production practice.
 
 ---
 
-## 🎯 What I Build
+## 🚧 Currently Building
 
 <div align="center">
 
-| Domain | Focus |
+| | |
 |---|---|
-| 🏢 **Enterprise AI** | Scalable, production-ready AI systems for real business workflows |
-| 🧠 **LLM Applications** | End-to-end applications powered by large language models |
-| 📚 **RAG Systems** | Retrieval-augmented pipelines for grounded, accurate responses |
-| 🕸️ **Agentic AI** | Multi-agent systems that plan, reason, and execute tasks |
-| 📄 **Document Intelligence** | OCR, extraction, and understanding pipelines for unstructured data |
-| ⚙️ **AI Automation** | Workflow automation that removes manual, repetitive work |
-| 📈 **Predictive Analytics** | ML/DL models for forecasting and decision support |
-| 📊 **Business Intelligence** | Turning raw data into actionable insight |
-
-</div>
-
----
-
-## 🧱 Architecture Mindset
-
-<div align="center">
-
-```
-   User / Business Need
-          │
-          ▼
-   ┌─────────────────┐
-   │   Data Layer      │  → Ingestion, OCR, Cleaning, Vector Indexing
-   └─────────────────┘
-          │
-          ▼
-   ┌─────────────────┐
-   │  Intelligence Layer │  → LLMs, RAG, Agentic Orchestration
-   └─────────────────┘
-          │
-          ▼
-   ┌─────────────────┐
-   │  Serving Layer     │  → FastAPI, REST APIs, Docker
-   └─────────────────┘
-          │
-          ▼
-     Production System
-```
-
-I don't just prototype models — I think in terms of **data pipelines, retrieval quality, latency, and deployability** from day one.
+| 🏢 Enterprise AI Systems | 🕸️ Agentic AI Workflows |
+| 📚 Retrieval-Augmented Generation (RAG) | ⚡ FastAPI AI Services |
+| 📄 Document Intelligence | 📈 Predictive Analytics |
 
 </div>
 
@@ -160,7 +130,7 @@ I don't just prototype models — I think in terms of **data pipelines, retrieva
 </tr>
 <tr>
 <td><b>🗄️ Vector & Search</b></td>
-<td>Vector Databases · FAISS · Semantic Search</td>
+<td>FAISS · Vector Databases · Semantic Search</td>
 </tr>
 <tr>
 <td><b>📄 Document AI</b></td>
@@ -172,7 +142,7 @@ I don't just prototype models — I think in terms of **data pipelines, retrieva
 </tr>
 <tr>
 <td><b>🧩 Emerging</b></td>
-<td>Prompt Engineering · MCP (Model Context Protocol)</td>
+<td>Prompt Engineering · Model Context Protocol (MCP)</td>
 </tr>
 </table>
 
@@ -185,47 +155,53 @@ I don't just prototype models — I think in terms of **data pipelines, retrieva
 <td width="50%" valign="top">
 
 ### 🤖 Enterprise RAG Chatbot
-Production-oriented retrieval-augmented chatbot built for grounded, enterprise-context question answering with reduced hallucination.
+Retrieval-augmented chatbot built for grounded, context-aware question answering, with a deployed live demo.
 
-**Stack:** `Python` `LangChain` `FAISS` `FastAPI` `LLMs`
+**Stack:** `Python` `LangChain` `FAISS` `Streamlit`
 
-[🔗 View Repository](https://github.com/your-username/enterprise-rag-chatbot)
+[🔗 Repository](https://github.com/mubashir-yaseen/RAG_chatbot) · [🌐 Live Demo](https://ragchatbot-elm73jvswqd5mh22xofhwy.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ PhishShield
-AI-driven system for detecting phishing attempts, applying ML/NLP techniques to flag malicious content in real time.
+### 📦 Supply Chain Demand Forecasting
+End-to-end forecasting system for supply chain demand planning, deployed as an interactive analytics app.
 
-**Stack:** `Python` `Machine Learning` `NLP` `Scikit-learn`
+**Stack:** `Python` `Predictive Analytics` `Pandas`
 
-[🔗 View Repository](https://github.com/your-username/phishshield)
+[🔗 Repository](https://github.com/mubashir-yaseen/Supply-Chain-Demand-Forecasting) · [🌐 Live Demo](https://huggingface.co/spaces/mubashir1234321/supply-chain-analytics)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📄 Document Intelligence Pipeline
-End-to-end pipeline for extracting, structuring, and understanding unstructured documents using OCR and NLP.
+### 🎬 Movie Recommendation System
+Recommendation engine using collaborative and content-based filtering, deployed with a live interface.
 
-**Stack:** `Python` `OCR` `NLP` `Document Intelligence`
+**Stack:** `Python` `Scikit-learn` `Pandas`
 
-[🔗 View Repository](https://github.com/your-username/document-intelligence-pipeline)
+[🔗 Repository](https://github.com/mubashir-yaseen/movie-recommendation-system) · [🌐 Live Demo](https://recommendation-sys-uy0j.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Movie Recommendation System
-Recommendation engine leveraging collaborative and content-based filtering to deliver personalized suggestions.
+### 🛡️ PhishShield
+AI-driven system for detecting phishing attempts using ML/NLP techniques to flag malicious content.
 
-**Stack:** `Python` `Pandas` `Scikit-learn`
+**Stack:** `Python` `Machine Learning` `NLP`
 
-[🔗 View Repository](https://github.com/your-username/movie-recommendation-system)
+*Flagship project — repository link coming soon.*
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**🌐 Portfolio:** [github.com/mubashir-yaseen/portfolio](https://github.com/mubashir-yaseen/portfolio)
+
+</div>
 
 <details>
 <summary><b>📁 More Projects (Click to Expand)</b></summary>
@@ -239,7 +215,6 @@ Recommendation engine leveraging collaborative and content-based filtering to de
 **📧 Spam Detection**
 NLP-based classifier for filtering spam content.
 `Python` `NLP` `Scikit-learn`
-[🔗 Repo](https://github.com/your-username/spam-detection)
 
 </td>
 <td width="33%" valign="top">
@@ -247,7 +222,6 @@ NLP-based classifier for filtering spam content.
 **❤️ Heart Disease Prediction**
 Predictive ML model for early-stage risk assessment.
 `Python` `Scikit-learn` `Pandas`
-[🔗 Repo](https://github.com/your-username/heart-disease-prediction)
 
 </td>
 <td width="33%" valign="top">
@@ -255,7 +229,6 @@ Predictive ML model for early-stage risk assessment.
 **🏠 House Price Prediction**
 Regression-based model for real-estate price estimation.
 `Python` `Scikit-learn` `NumPy`
-[🔗 Repo](https://github.com/your-username/house-price-prediction)
 
 </td>
 </tr>
@@ -269,16 +242,16 @@ Regression-based model for real-estate price estimation.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mubashir-yaseen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-yaseen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir-yaseen&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashir-yaseen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="100%"/>
 
 </div>
 
@@ -309,19 +282,17 @@ NUST
 
 <div align="center">
 
-I'm always open to conversations about **enterprise AI, LLM systems, and agentic architectures** — whether that's a collaboration, a role, or just a good technical discussion.
+I'm open to conversations about AI engineering roles, applied ML work, and enterprise AI projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mubashir-38a1361a1/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashiryaseen@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mubashir-yaseen)
 
 </div>
 
 ---
 
 <div align="center">
-
-> *"Production is the only benchmark that matters."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 
